@@ -15,7 +15,7 @@ To run the notebooks, ensure you have Python and the required libraries installe
 ### **1️⃣ Clone the Repository**
 ```sh
 git clone https://github.com/sherazAhmed-ipynb/neural-nexus
-cd your-repo-name
+cd neural-nexus
 ```
 
 ### **2️⃣ Create & Activate Environment**
